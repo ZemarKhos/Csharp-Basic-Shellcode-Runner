@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.exe
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.deps.json
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.runtimeconfig.json
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.dll
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\bin\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.pdb
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.AssemblyInfo.cs
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.dll
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.pdb
+C:\Users\admin\source\repos\CobaltStrike-Backdoor\CobaltStrike-Backdoor\obj\x86\Release\netcoreapp3.1\CobaltStrike-Backdoor.genruntimeconfig.cache
